@@ -18,7 +18,7 @@ https://app-eu1.hubspot.com/academy/achievements/bv9cdydf/en/1/marcelo-ferraz/se
 https://www.coursera.org/account/accomplishments/specialization/certificate/UJK3ECDMNGQC <br />
 •	Programming web pages JavaScript and ASP .NET 3.5 (C#) (2/15/2021 – 5/17/2021 – 80 hours) <br />
 •	Keys to Mastering JavaScript – (6/07/2021 – 8/6/2021 - 25 hours) <br />
-• Introduction to Jira (6/8/21)
+• Introduction to Jira (6/8/21 - 6 hours)
 •	Programming Logic – (08/03/2021 – 20 hours) <br />
 •	Verification and Resolution of Local Area Network Incidents (11/03/21 – 12/19/21 - 70 hours) <br />
 
