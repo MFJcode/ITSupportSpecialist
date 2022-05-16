@@ -9,5 +9,5 @@ https://www.coursera.org/account/accomplishments/specialization/certificate/UJK3
 •	Programming Logic – (08/03/2021 – 20 hours) <br />
 •	Verification and Resolution of Local Area Network Incidents (11/03/21 – 12/19/21 - 70 hours) <br />
 •	SEO Certified (2/3/2022) <br />
-https://app-eu1.hubspot.com/academy/achievements/bv9cdydf/en/1/marcelo-ferraz/seo <br />
+https://app-eu1.hubspot.com/academy/achievements/bv9cdydf/en/1/marcelo-ferraz/seo<br />
 
