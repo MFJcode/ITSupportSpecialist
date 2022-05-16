@@ -2,9 +2,9 @@
 
 <h2>Education</h2>
 • Higher Education<br />
-Universidade Paulista
-https://www.linkedin.com/school/unip/
-Higher Technical Certificate 
+Universidade Paulista<br />
+https://www.linkedin.com/school/unip/<br />
+Higher Technical Certificate<br /> 
 
 <h2> Licenses &amp; certifications </h2>
 
