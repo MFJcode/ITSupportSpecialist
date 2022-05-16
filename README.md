@@ -1,7 +1,7 @@
 # IT Support Specialist
 
 <h2>Education</h2>
-• Higher Education<br />
+• Higher Education - 2016<br />
 Universidade Paulista<br />
 https://www.linkedin.com/school/unip/<br />
 Higher Technical Certificate<br /> 
