@@ -1,5 +1,9 @@
 # IT Support Specialist
 
+<h2>Education</h2>
+• Higher Education
+Higher Technical Certificate 
+
 <h2> Licenses &amp; certifications </h2>
 
 <h2> 2022 </h2>
@@ -17,6 +21,17 @@ https://www.coursera.org/account/accomplishments/specialization/certificate/UJK3
 
 <h2> 2020 </h2>
 •	Cybersecurity (4/1/2020 – 5/14/2020 – 45 hours) <br />
+
+<h2> 2016 </h2>
+•	PROFESSIONAL SCRUM MASTER™ I
+https://www.scrum.org/user/160667
+• Big Data Hadoop Foundations
+https://www.credly.com/badges/af7666ce-6bf4-491d-b367-2461526c1f4a/linked_in_profile
+• Big Data Foundations
+https://www.credly.com/badges/8e95d392-9208-417b-925d-7a8a37ac1bf5/linked_in_profile
+
+
+
 
 
 
