@@ -1,6 +1,6 @@
 # IT Support Specialist
 
-<h1> Licenses &amp; certifications </h1>
+<h2> Licenses &amp; certifications </h2>
 
 <h2> 2022 </h2>
 •	SEO Certified (2/3/2022) <br />
