@@ -19,6 +19,9 @@ https://github.com/MFJcode/Certifications/blob/main/2024%20Introduction%20to%20D
 https://github.com/MFJcode/Certifications/blob/main/2024%20Certificado%20de%20Conclus%C3%A3o%20-%20Fundamentos%20de%20Redes.pdf <br />
 •	(S0) Software Engineering Foundations Certificate-ai <br />
 https://github.com/MFJcode/Certifications/blob/main/2024%20(S0)%20Software%20Engineering%20Foundations%20Certificate-ai.pdf <br />
+•	Salesforce <br />
+https://www.salesforce.com/trailblazer/mfjcode
+
 
 
 
