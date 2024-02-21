@@ -1,4 +1,4 @@
-# IT Support Specialist
+# IT Support Engineer 
 
 <h2>Education</h2>
 • Higher Education - 2016<br />
@@ -7,6 +7,20 @@ https://www.linkedin.com/school/unip/<br />
 Higher Technical Certificate<br /> 
 
 <h2> Licenses &amp; certifications </h2>
+
+<h2> 2024 </h2>
+•	Shell training <br />
+https://github.com/MFJcode/Certifications/blob/main/2024%20Shell%20training.pdf
+•	Linux Training <br />
+https://github.com/MFJcode/Certifications/blob/main/2024%20Linux%20training.pdf
+•	Introduction to DevOps <br />
+https://github.com/MFJcode/Certifications/blob/main/2024%20Introduction%20to%20DevOps%20.pdf
+•	Network Fundamentals <br />
+https://github.com/MFJcode/Certifications/blob/main/2024%20Certificado%20de%20Conclus%C3%A3o%20-%20Fundamentos%20de%20Redes.pdf
+•	(S0) Software Engineering Foundations Certificate-ai
+https://github.com/MFJcode/Certifications/blob/main/2024%20(S0)%20Software%20Engineering%20Foundations%20Certificate-ai.pdf
+
+
 
 <h2> 2022 </h2>
 •	SEO Certified (2/3/2022) <br />
