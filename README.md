@@ -53,7 +53,7 @@ https://github.com/MFJcode/Certifications/blob/main/2020%20Cybersecurity%20.png 
 https://github.com/MFJcode/Certifications/blob/main/2019%20Basic%20Switch%20and%20Router%20Configuration%20and%20Management.pdf <br />
 •	Basic SAP Initiation Course <br />
 https://github.com/MFJcode/Certifications/blob/main/2019%20Basic%20SAP%20Initiation%20Course.pdf <br />
-•	Basic SAP Initiation Course <br />
+
 
 <h2> 2016 </h2>
 •	PROFESSIONAL SCRUM MASTER™ I<br />
