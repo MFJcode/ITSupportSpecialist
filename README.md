@@ -9,6 +9,9 @@ Higher Technical Certificate<br />
 <h2> Licenses &amp; certifications </h2>
 
 <h2> 2024 </h2>
+
+•	Docker training <br />
+https://github.com/MFJcode/Certifications/blob/main/2024%20Docker%20training.pdf
 •	Shell training <br />
 https://github.com/MFJcode/Certifications/blob/main/2024%20Shell%20training.pdf <br />
 •	Linux Training <br />
